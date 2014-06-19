@@ -1,0 +1,99 @@
+1Password
+Alfred
+Aperture
+App Store
+AppZapper
+Arq
+Audio Hijack Pro
+Automator
+Bartender
+BaseApp
+BBEdit
+Billings Pro
+BusyCal
+Calculator
+Calendar
+Cloud
+Coda 2
+CodeKit
+Contacts
+CSSEdit
+Dashboard
+Dictionary
+Disk Inventory X
+Disk Utility
+Divvy
+Dropbox
+DVD Player
+Enqueue
+Evernote
+FaceTime
+FirefoxNightly
+FlatInc [Fluid]
+Fluid
+Flux
+Font Book
+Gitbox
+GitHub
+Google Chrome
+Growl
+GrowlVoice
+HDD Fan Control Monitor
+Image Capture
+ImageOptim
+iOS Simulator
+iPhoto
+iTerm
+iTunes
+Launchpad
+LICEcap
+Linotype FontExplorer X
+Mail
+MAMP
+MAMP PRO
+Media Pro
+Messages
+Mission Control
+Notes
+nvALT
+OmniFocus
+OnyX
+Otters [Fluid]
+Pacifist
+PageLayers
+Photo Booth
+Pixelmator
+Pocket
+Preview
+Quicksilver
+QuickTime Player 7
+QuickTime Player
+Reminders
+Safari
+Screenhero
+Sequel Pro
+ShrinkIt
+Skitch
+Skype
+SoundSource
+SourceTree
+StartWorking [Automator]
+Steam
+Sublime Text
+SuperDuper!
+System Preferences
+TextEdit
+TextExpander
+TextMate
+The Unarchiver
+Thunderbird
+Time Machine
+Transmit
+TunnelBear
+Typist
+uTorrent
+Vagrant
+VirtualBox
+VLC
+Xcode
+xScope

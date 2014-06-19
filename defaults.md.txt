@@ -1,0 +1,105 @@
+# System stuff for a mac
+
+
+## Dropshadows on screenshots
+```
+defaults write com.apple.screencapture disable-shadow -bool true
+killall SystemUIServer
+```
+
+## Spotlight
+```
+sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
+```
+```
+sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
+```
+
+## GCC Compiler
+```
+brew install apple-gcc42
+sudo ln -s /usr/local/bin/gcc-4.2 /usr/bin/gcc-4.2
+```
+ref: http://cczona.com/blog/2012/07/fix-for-make-usrbingcc-4-2-no-such-file-or-directory/
+
+
+## chflags
+```
+chflags nohidden ~/Library
+```
+
+## Dock shine
+```
+defaults write com.apple.dock hide-mirror -bool true;killall Dock
+```
+```
+defaults write com.apple.dock hide-mirror -bool false;killall Dock
+```
+
+## TextEdit ruler
+```
+defaults write com.apple.TextEdit ShowRuler 0
+```
+```
+defaults delete com.apple.TextEdit ShowRuler
+```
+
+## Quicktime player
+```
+defaults write com.apple.QuickTimePlayerX MGCinematicWindowDebugForceNoRoundedCorners 1
+```
+```
+defaults write com.apple.QuickTimePlayerX MGCinematicWindowDebugForceNoRoundedCorners 0
+```
+
+## Helpviewer DevMode
+```
+defaults write com.apple.helpviewer DevMode -bool true
+```
+```
+defaults write com.apple.helpviewer DevMode -bool false
+```
+
+## Fast windows
+```
+defaults write NSGlobalDomain NSWindowResizeTime .1
+```
+```
+defaults write NSGlobalDomain NSWindowResizeTime .5
+```
+
+## Mail names
+```
+defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool false
+```
+```
+defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool true
+```
+
+# Debug menu in Addressbook
+
+```
+defaults write com.apple.addressbook ABShowDebugMenu -bool YES
+```
+```
+defaults write com.apple.addressbook ABShowDebugMenu -bool NO
+```
+
+# AppNap
+
+```
+sudo defaults write com.apple.Finder NSAppSleepDisabled -bool YES
+```
+
+# Font Smoothing for Consolas
+
+```
+defaults -currentHost write -globalDomain AppleFontSmoothing -int 2
+```
+
+# Reduce time-to-standby to 12 hours
+cf: http://www.ewal.net/2012/09/09/slow-wake-for-macbook-pro-retina/ 
+
+```
+sudo pmset -a standbydelay 43200
+```

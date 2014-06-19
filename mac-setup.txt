@@ -1,0 +1,138 @@
+New computer setup
+———
+
+Restart with cmd-R
+Erase drive
+reinstall
+
+…
+
+Booted up
+
+> Safari: download Dropbox
+	https://www.dropbox.com/downloading?src=index
+	Install 
+	selective sync: just Writing + 1Password 
+> Safari: download 1Password - 
+> Safari: download VLC/ Install
+> Safari: download AppZapper
+> Safari: download Firefox Nightly
+	http://nightly.mozilla.org
+> Safari: download Quicksilver 
+	http://qsapp.com/download.php
+	plugins - http://qsapp.com/plugins.php
+		Extra Scripts
+
+> Network pref
+	http://www.opendns.com/opendns-ip-addresses/
+	DNS 
+		208.67.222.222
+		208.67.220.220
+		
+> App Store
+	download purchased apps
+	Billings, Aperture, GrowlVoice, BusyCal, Pocket, Coda, Pixelmator, BaseApp, Evernote
+
+> Dropbox/Software
+	BBEdit - https://www.dropbox.com/s/1geig9sbguv5hyi/BBEdit_10.1.2.dmg
+	Automator Dispense - https://www.dropbox.com/s/ik5qfu9urp3quyk/Install%20Automator%20Action.pkg
+	CSS Edit - https://www.dropbox.com/s/252zn2yact5c321/CSSEdit2.6.1.dmg
+	
+> Web / download apps
+	Flux - http://justgetflux.com/
+	SourceTree - http://www.sourcetreeapp.com/download/
+	Vagrant - http://www.vagrantup.com/downloads.html
+	VirtualBox - https://www.virtualbox.org/wiki/Downloads 
+	Transmit - http://panic.com/transmit/
+	Sublime Text - http://www.sublimetext.com/3
+	OmniFocus - http://www.omnigroup.com/omnifocus/
+	Pacifist - http://www.charlessoft.com
+	Web Sharing Pref - http://clickontyler.com/web-sharing/
+	MAMP Pro - http://www.mamp.info/en/downloads/index.html
+	Divvy - http://mizage.com/divvy/
+	TextMate - http://macromates.com/download
+	iTerm - http://www.iterm2.com/#/section/home
+	Homebrew - http://brew.sh/
+		ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+		brew doctor
+	Onyx - http://www.titanium.free.fr/downloadonyx.php
+	ShrinkIT - http://www.panic.com/~will/shrinkit/
+	ImageOptim - http://imageoptim.com/
+	GitHub - http://mac.github.com/
+	GitBox - http://gitboxapp.com/
+	Bartender - http://www.macbartender.com/
+	Synergy
+	TextExpander - http://smilesoftware.com/TextExpander/index.html
+	Codekit - http://incident57.com/codekit/
+	CSS Comb - http://csscomb.com/
+	Superduper - http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html
+	xScope - http://iconfactory.com/software/xscope
+	µtorrent - http://www.utorrent.com/
+	nvAlt - http://brettterpstra.com/projects/nvalt/
+	Quicktime 7 - http://support.apple.com/kb/DL923
+	Disk Inventory X - http://www.derlien.com/
+	Thunderbird
+	Fluid - http://fluidapp.com/
+	Node.js - http://nodejs.org/
+	Arq - http://www.haystacksoftware.com/arq/
+	SublimeText Package Control - https://sublime.wbond.net/
+	Sequel Pro - http://www.sequelpro.com/download
+	
+> AppZap
+	Chess
+	GarageBand
+	Maps
+	iBooks
+	Game Center
+	
+> System Prefs
+	Security & Privacy - 
+		disable Location services
+		allow apps
+	Desktop
+		disable screen saver
+	Spotlight
+		turn off command keys
+		disable a bunch of stuff
+	
+> install Xcode
+	App Store +
+	Command Line - https://developer.apple.com/downloads/index.action?name=for%20Xcode%20-
+
+> install Git
+	do directly through GitHub app b/c why not
+	https://help.github.com/articles/set-up-git
+
+> Zsh
+	https://github.com/robbyrussell/oh-my-zsh
+	curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+
+	https://gist.github.com/maxfenton/515f9f6fcfab0eadfd1a
+
+> Calendars
+	busycal blah bah
+
+> Email
+	thunderbird blah blah 
+
+> Firefox
+	adblock settings
+	gmelius settings
+
+> System stuff in gist
+	https://gist.github.com/maxfenton/515f9f6fcfab0eadfd1a
+
+> ievms
+	https://github.com/xdissent/ievms
+	curl -s https://raw.github.com/xdissent/ievms/master/ievms.sh | bash
+
+> ruby rails 
+	http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/
+
+> Folder action: ImageOptim screenshots
+	https://www.dropbox.com/s/rwmxpqqwfinibzs/imageoptim-desktop-screenshots.zip
+
+> Defaults 
+
+	https://gist.github.com/maxfenton/515f9f6fcfab0eadfd1a/edit
+
